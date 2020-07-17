@@ -1,10 +1,12 @@
 # videoPlayer
 
-Create beautiful UI to play music stored in the "music folder" using the HTML5 audio API.
+Custom video player using the HTML5 video element and it's JavaScript API with a custom design
 
 # Project Specifications
 
-* Create UI for music player including spinning image and song detail popup
-* Add play and pause functionality
-* Switch songs
-* Progress bar
+* Display custom video player styled with CSS
+* Play/pause
+* Stop
+* Video progress bar
+* Set progress bar time
+* Display time in mins and seconds
